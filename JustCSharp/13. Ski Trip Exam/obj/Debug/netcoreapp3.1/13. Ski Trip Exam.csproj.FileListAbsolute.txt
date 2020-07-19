@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\bin\Debug\netcoreapp3.1\13. Ski Trip Exam.exe
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\bin\Debug\netcoreapp3.1\13. Ski Trip Exam.deps.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\bin\Debug\netcoreapp3.1\13. Ski Trip Exam.runtimeconfig.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\bin\Debug\netcoreapp3.1\13. Ski Trip Exam.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\bin\Debug\netcoreapp3.1\13. Ski Trip Exam.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\bin\Debug\netcoreapp3.1\13. Ski Trip Exam.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\obj\Debug\netcoreapp3.1\13. Ski Trip Exam.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\obj\Debug\netcoreapp3.1\13. Ski Trip Exam.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\obj\Debug\netcoreapp3.1\13. Ski Trip Exam.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\obj\Debug\netcoreapp3.1\13. Ski Trip Exam.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\obj\Debug\netcoreapp3.1\13. Ski Trip Exam.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\obj\Debug\netcoreapp3.1\13. Ski Trip Exam.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\13. Ski Trip Exam\obj\Debug\netcoreapp3.1\13. Ski Trip Exam.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\obj\Debug\netcoreapp3.1\NumberFromOneToTen.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\obj\Debug\netcoreapp3.1\NumberFromOneToTen.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\obj\Debug\netcoreapp3.1\NumberFromOneToTen.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\obj\Debug\netcoreapp3.1\NumberFromOneToTen.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\bin\Debug\netcoreapp3.1\NumberFromOneToTen.exe
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\bin\Debug\netcoreapp3.1\NumberFromOneToTen.deps.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\bin\Debug\netcoreapp3.1\NumberFromOneToTen.runtimeconfig.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\bin\Debug\netcoreapp3.1\NumberFromOneToTen.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\bin\Debug\netcoreapp3.1\NumberFromOneToTen.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\bin\Debug\netcoreapp3.1\NumberFromOneToTen.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\obj\Debug\netcoreapp3.1\NumberFromOneToTen.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\obj\Debug\netcoreapp3.1\NumberFromOneToTen.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\NumberFromOneToTen\obj\Debug\netcoreapp3.1\NumberFromOneToTen.genruntimeconfig.cache

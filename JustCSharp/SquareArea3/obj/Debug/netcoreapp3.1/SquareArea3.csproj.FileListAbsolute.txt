@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\bin\Debug\netcoreapp3.1\SquareArea3.exe
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\bin\Debug\netcoreapp3.1\SquareArea3.deps.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\bin\Debug\netcoreapp3.1\SquareArea3.runtimeconfig.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\bin\Debug\netcoreapp3.1\SquareArea3.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\bin\Debug\netcoreapp3.1\SquareArea3.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\bin\Debug\netcoreapp3.1\SquareArea3.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\obj\Debug\netcoreapp3.1\SquareArea3.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\obj\Debug\netcoreapp3.1\SquareArea3.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\obj\Debug\netcoreapp3.1\SquareArea3.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\obj\Debug\netcoreapp3.1\SquareArea3.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\obj\Debug\netcoreapp3.1\SquareArea3.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\obj\Debug\netcoreapp3.1\SquareArea3.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\SquareArea3\obj\Debug\netcoreapp3.1\SquareArea3.genruntimeconfig.cache

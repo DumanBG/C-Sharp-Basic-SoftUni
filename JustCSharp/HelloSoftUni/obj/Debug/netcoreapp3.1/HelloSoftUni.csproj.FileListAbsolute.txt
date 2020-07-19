@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.exe
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.deps.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.runtimeconfig.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.genruntimeconfig.cache

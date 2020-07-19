@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\bin\Debug\netcoreapp3.1\07FruitMarket.exe
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\bin\Debug\netcoreapp3.1\07FruitMarket.deps.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\bin\Debug\netcoreapp3.1\07FruitMarket.runtimeconfig.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\bin\Debug\netcoreapp3.1\07FruitMarket.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\bin\Debug\netcoreapp3.1\07FruitMarket.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\bin\Debug\netcoreapp3.1\07FruitMarket.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\obj\Debug\netcoreapp3.1\07FruitMarket.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\obj\Debug\netcoreapp3.1\07FruitMarket.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\obj\Debug\netcoreapp3.1\07FruitMarket.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\obj\Debug\netcoreapp3.1\07FruitMarket.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\obj\Debug\netcoreapp3.1\07FruitMarket.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\obj\Debug\netcoreapp3.1\07FruitMarket.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\07FruitMarket\obj\Debug\netcoreapp3.1\07FruitMarket.genruntimeconfig.cache

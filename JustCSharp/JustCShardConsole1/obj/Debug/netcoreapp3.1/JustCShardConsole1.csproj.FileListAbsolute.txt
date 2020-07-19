@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\bin\Debug\netcoreapp3.1\JustCShardConsole1.exe
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\bin\Debug\netcoreapp3.1\JustCShardConsole1.deps.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\bin\Debug\netcoreapp3.1\JustCShardConsole1.runtimeconfig.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\bin\Debug\netcoreapp3.1\JustCShardConsole1.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\bin\Debug\netcoreapp3.1\JustCShardConsole1.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\bin\Debug\netcoreapp3.1\JustCShardConsole1.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\obj\Debug\netcoreapp3.1\JustCShardConsole1.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\obj\Debug\netcoreapp3.1\JustCShardConsole1.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\obj\Debug\netcoreapp3.1\JustCShardConsole1.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\obj\Debug\netcoreapp3.1\JustCShardConsole1.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\obj\Debug\netcoreapp3.1\JustCShardConsole1.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\obj\Debug\netcoreapp3.1\JustCShardConsole1.genruntimeconfig.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\JustCShardConsole1\obj\Debug\netcoreapp3.1\JustCShardConsole1.csprojAssemblyReference.cache

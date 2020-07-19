@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.exe
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.deps.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.runtimeconfig.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.dll
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.pdb
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.genruntimeconfig.cache
+C:\Users\teeedi\source\repos\JustCShardConsole1\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.csprojAssemblyReference.cache
